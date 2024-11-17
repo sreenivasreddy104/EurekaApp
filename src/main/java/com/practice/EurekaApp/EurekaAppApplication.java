@@ -12,3 +12,4 @@ public class EurekaAppApplication {
         SpringApplication.run(EurekaAppApplication.class, args);
     }
 }
+
