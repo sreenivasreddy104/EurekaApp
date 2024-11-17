@@ -11,5 +11,4 @@ public class EurekaAppApplication {
     public static void main(String[] args) {
         SpringApplication.run(EurekaAppApplication.class, args);
     }
-
 }
